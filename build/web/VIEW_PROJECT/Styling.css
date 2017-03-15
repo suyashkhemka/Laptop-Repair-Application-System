@@ -1,0 +1,49 @@
+body
+{
+            background-color: #F5F1DE;
+            height:100%;
+}
+#d
+{
+  width:1200px;
+  
+}
+#d ul
+{ list-style:none;
+padding:0;
+}
+#d ul li ul
+{
+	  display:none;
+	
+}
+#d ul li:hover ul
+{
+    display:block;	
+}
+#d ul li
+{ font-family: forte;
+	float: left;
+	width: 240px;
+	text-align:centre;
+}
+#d ul li a{
+	color:#444;
+	text-decoration:none;
+	background:lightgrey;
+	display:block;
+	padding:10px;
+	margin:2px;
+        
+} 
+#d ul li a:hover
+{
+      
+	color:red;
+}
+#a{
+	background-color:green;
+}
+.verticaline{
+    border-left: solid #ff0000;
+}

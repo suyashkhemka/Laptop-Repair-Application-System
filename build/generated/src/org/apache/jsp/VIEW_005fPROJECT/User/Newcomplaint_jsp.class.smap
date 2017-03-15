@@ -1,0 +1,20 @@
+SMAP
+Newcomplaint_jsp.java
+JSP
+*S JSP
+*F
++ 0 Newcomplaint.jsp
+VIEW_PROJECT/User/Newcomplaint.jsp
++ 1 Header_user.html
+VIEW_PROJECT/User/Header_user.html
++ 2 Footer_user.html
+VIEW_PROJECT/User/Footer_user.html
+*L
+5,12:50
+1#1,49:62
+16#0,58:110
+74,2:168,3
+76,12:174
+1#2,43:186
+87#0,4:229
+*E

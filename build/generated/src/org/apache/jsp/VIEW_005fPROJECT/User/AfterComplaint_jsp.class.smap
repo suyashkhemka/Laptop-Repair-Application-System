@@ -1,0 +1,20 @@
+SMAP
+AfterComplaint_jsp.java
+JSP
+*S JSP
+*F
++ 0 AfterComplaint.jsp
+VIEW_PROJECT/User/AfterComplaint.jsp
++ 1 Header_user.html
+VIEW_PROJECT/User/Header_user.html
++ 2 Footer_user.html
+VIEW_PROJECT/User/Footer_user.html
+*L
+5,12:50
+1#1,49:62
+16#0,3:110
+19,2:114
+20,3:114
+1#2,43:117
+22#0,4:160
+*E

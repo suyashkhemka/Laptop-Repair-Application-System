@@ -1,0 +1,18 @@
+SMAP
+Homepage_jsp.java
+JSP
+*S JSP
+*F
++ 0 Homepage.jsp
+VIEW_PROJECT/Homepage.jsp
++ 1 head.html
+VIEW_PROJECT/head.html
++ 2 Footer.html
+VIEW_PROJECT/Footer.html
+*L
+5,14:51
+1#1,84:65
+18#0,5:148
+1#2,43:153
+22#0,5:196
+*E
