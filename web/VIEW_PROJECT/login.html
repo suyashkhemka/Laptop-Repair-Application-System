@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>TODO supply a title</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width">
+        <link rel="stylesheet" type="text/css" href="help.css"/>
+    </head>
+    <body>
+               <style>
+body{
+background-color:lightpink;
+height:50%;
+}
+
+        </style>
+
+        <fieldset>
+            <legend style="border:5px;color:gray;font-family: forte;">LOGIN</legend>
+            <form action="login_session.jsp" method="post">
+            <table>
+                
+                <tr>
+                    <td>USER ID</td>
+                    <TD><input type="text" name="username" value="" required/></TD>
+                </tr>
+                 <tr>
+                    <td>PASSWORD</td>
+                    <TD><input type="password" name="password" value="" required/></TD>
+                </tr>
+                <tr>
+                    <td><input type="radio" name="person" value="user">User</td>
+                    <td><input type="radio" name="person" value="tech">Company</td>
+                </tr>
+                <tr>
+                    <td><input type="submit" value="login"></td>
+                </tr>
+               
+            </table>
+            </form>
+            
+        </fieldset>
+
+    </body>
+</html>

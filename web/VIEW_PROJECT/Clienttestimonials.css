@@ -1,0 +1,14 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jun 21, 2016, 8:17:59 PM
+    Author     : Suyash
+*/
+.testmonial {
+    background: url(./images/footerBg.jpg)p repeat left -85px;
+    padding-top: 40px;
+    overflow: hidden;
+}

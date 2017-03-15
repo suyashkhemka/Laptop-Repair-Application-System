@@ -1,0 +1,54 @@
+
+#d
+{
+  width:1000px;
+  height:50px;
+  
+}
+#d ul
+{ list-style :none;
+padding:0;
+}
+#d ul li ul
+{
+	  display:none;
+	
+}
+#d ul li:hover ul
+{
+    display:block;	
+}
+#d ul li
+{ font-family: forte;
+	float: left;
+	width: 20%;
+	text-align:center;
+}
+#d ul li a{
+	color:#444;
+	text-decoration:none;
+	background:lightgreen;
+	display:block;
+	padding:10px;
+	margin:2px;
+        
+} 
+#d ul li li{
+    width: 100%;
+}
+#d ul li a :hover
+{
+      
+	background-color:red;
+}
+#a{
+	background-color:green;
+}
+.verticaline{
+    border-left: solid #ff0000;
+}
+#livechat-compact-container,
+#livechat-full{
+    right:40px!important;
+}
+
