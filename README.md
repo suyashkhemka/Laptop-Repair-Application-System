@@ -13,3 +13,7 @@ details can the engineer start the process and update the tentative date. The 3r
 party collects the laptop on customer¿s behalf and delivers it to the desired
 location. There is also a full hardware scan of the laptop incase the engineer
 purposely changes the initial configuration of the laptop.
+Laptop Repair service are a hassle. It involves wasting time in queues at service centres and sometimes exchange original parts with duplicate ones.
+This application takes up a backup of information of all hardware and software present on the computer before giving it to service center. The complaint can be raised online and can be tracked through the process of fixing it. 
+The customer also has the option of opting to repair or not depending on cost factors and age of the hardware. The portal also connects to various third-party hardware buyers.
+Technologies: HTML, Bootstrap, CSS, Java, JAVASCRIPT, MVC architecture, JSP/ Scriptlets.
